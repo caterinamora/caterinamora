@@ -2,7 +2,7 @@
 
 <h2>Data Anlytics Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [House Prices in Madrid](https://github.com/caterinamora/House-Prices-in-Madrid-)
 
 <h2> My Tableau Dashboards</h2>
 
