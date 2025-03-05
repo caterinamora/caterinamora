@@ -3,6 +3,7 @@
 <h2>Data Anlytics Projects:</h2>
 
   - [House Prices in Madrid](https://github.com/caterinamora/House-Prices-in-Madrid-)
+  - [Facial Emotion Recognition](https://github.com/caterinamora/Facial-Emotion-Recognition-)
 
 <h2> My Tableau Dashboards</h2>
 
