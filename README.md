@@ -47,6 +47,7 @@ I’m a Master’s student in Business Analytics at Duke University - Fuqua Scho
 <h2> My Tableau Dashboards</h2>
 
 - [City Analysis](https://github.com/caterinamora/City-Analysis-Dashboard/tree/main)
+- [Repair Facility](https://github.com/caterinamora/Repair-Facility)
 
 
 <h2> 🤳 Connect with me:</h2>
