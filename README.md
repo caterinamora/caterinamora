@@ -10,8 +10,6 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> Certifications</h2>
-- [Microsoft Office Specialist: Microsoft Excel Expert (Office 2019)](https://www.credly.com/badges/000a0b16-1acd-4426-93f3-96ec16266094/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
  www.linkedin.com/in/caterinamoraadrover
