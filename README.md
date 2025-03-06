@@ -46,7 +46,7 @@ I’m a Master’s student in Business Analytics at Duke University - Fuqua Scho
 
 <h2> My Tableau Dashboards</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [City Analysis](https://github.com/caterinamora/City-Analysis-Dashboard/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
